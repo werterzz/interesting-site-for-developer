@@ -10,3 +10,6 @@
 
 ### AI Tools
 * [TopAI](https://topai.tools/) - list of top ai tools in market
+
+### Economy
+* [Visual Capitalist](https://www.visualcapitalist.com/) - economy visual graphics
