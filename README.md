@@ -13,3 +13,6 @@
 
 ### Economy
 * [Visual Capitalist](https://www.visualcapitalist.com/) - economy visual graphics
+
+### Command Line
+* [clig](https://clig.dev) - Command Line Interface Guidelines
