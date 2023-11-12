@@ -27,6 +27,7 @@
 
 ### Cheatsheets
 * [QuickRef](https://quickref.me/) - cheatsheets & quick references
+* [Schema](https://schema.org/) - a mission to create, maintain, and promote schemas for structured data on the Internet
 
 ### Ranking
 * [DB-Engines Ranking](https://db-engines.com/en/ranking/search+engine) - DB-Engines Ranking of Search Engines
