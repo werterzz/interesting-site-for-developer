@@ -31,6 +31,7 @@
 
 ### Ranking
 * [DB-Engines Ranking](https://db-engines.com/en/ranking/search+engine) - DB-Engines Ranking of Search Engines
+* [Backend Framework Benchmark](https://web-frameworks-benchmark.netlify.app/) - Backend Framework Benchmark
 
 ### Technical Principles
 * [Data-Oriented Programming](https://blog.klipse.tech/databook/2022/06/22/separate-code-from-data.html) - Data-Oriented Programming
