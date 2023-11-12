@@ -34,3 +34,4 @@
 
 ### Technical Principles
 * [Data-Oriented Programming](https://blog.klipse.tech/databook/2022/06/22/separate-code-from-data.html) - Data-Oriented Programming
+* [Data-Centric Manifesto](http://www.datacentricmanifesto.org/) - Data-Centric Manifesto
